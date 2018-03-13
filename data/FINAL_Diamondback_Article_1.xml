@@ -134,7 +134,7 @@ with the editor-in-chief.</p>
       <encodingDesc>
         <editorialDecl>
           <p>Typographical errors have been noted and replaced with suggested corrections.</p>
-          <p>Structural formatting has been preserved. That is, page jumps and paragraphs have been retained, along with some line breaks.</p>
+          <p>Structural formatting has been preserved. That is, paragraphs have been retained, along with most line breaks.</p>
           <p>Offensive language and "slurs" have been preserved in order to textually and honestly grapple with race and identity.</p>
           <hyphenation eol="all">
                  <p>All end-of-line hyphenation has been preserved and added in as it appears in the original publication.</p>
@@ -259,7 +259,7 @@ and realize that <affiliation><interp ana="#CAUC">good hard work</interp></affil
 <affiliation><interp ana="#CAUC">good education</interp></affiliation> is all <interp ana="#AFAM">you</interp> need to get<lb break="yes"/>
 ahead.</p>
 <p><persName ref="#IAR"><interp ana="#CAUC">I. A. Racist</interp></persName><lb break="yes"/>
-<placeName><num>724</num> <interp ana="#CAUC">Reactionary</interp> Drive</placeName><lb break="yes"/>
+<placeName><num>724</num> <interp ana="#CAUC">Reactionary</interp> Drive</placeName><lb break="yes"/
 <settlement><interp ana="#CAUC">Bigot</interp></settlement>, <region>Maryland</region></p>
 <p>This is a <affiliation><interp ana="#CAUC">letter</interp></affiliation> which is full of the<lb break="yes"/>
 <affiliation><interp ana="#CAUC">racism</interp></affiliation> that confronts <interp ana="#AFAM">black students</interp><lb break="yes"/>
