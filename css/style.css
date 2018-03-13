@@ -1,17 +1,34 @@
-<html>
-<head>
-<style>
-body {
-    background-color: #FFFFFF;
+/* Add your own CSS rules here */
+#description {
+  margin: 0 0 1em 0;
 }
-
-span {
-    background-color: #f18973;
+hi {
+  font-style: italic;
 }
-</style>
-</head>
-<body>
-<p>How dare you<span>black</span>students of the</p>
-
-</body>
-</html>
+tei-titleStmt {
+  font-family: "Times New Roman", Times, serif;
+}
+tei-titleStmt > tei-author {
+  display: none;
+}
+tei-titleStmt > tei-respStmt > tei-persName {
+  display: grid; persName;
+}
+tei-publicationStmt {
+  display: none; font-family: "Times New Roman", Times, serif;
+}
+tei-encodingDesc {
+  display: table-footer-group; font-family: "Times New Roman", Times, serif;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
+tei-body {
+  font-family: Arial, Helvetica, serif;
+}
+tei-cb {
+  text-align: right;
+}
+tei-interp {
+  font-style: italic;
+}
