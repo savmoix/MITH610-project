@@ -5,9 +5,9 @@
 tei-body {
   font-family: Arial, Helvetica, serif;
 }
-tei-interp {
-  font-style: italic;
+tei-interp[ana="#AFAM"] {
+  font-weight: bold;
 }
-tei-affiliation {
-  text-decoration-color: "red"
+tei-interp[ana="#CAUC"] {
+  
 }
