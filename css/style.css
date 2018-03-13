@@ -11,21 +11,15 @@ tei-titleStmt {
 tei-titleStmt > tei-author {
   display: none;
 }
-tei-titleStmt > tei-respStmt > tei-persName {
-  display: grid; persName;
-}
 tei-publicationStmt {
   display: none; font-family: "Times New Roman", Times, serif;
-}
-tei-encodingDesc {
-  display: table-footer-group; font-family: "Times New Roman", Times, serif;
 }
 tei-body {
   font-family: Arial, Helvetica, serif;
 }
-tei-cb {
-  text-align: right;
-}
 tei-interp {
   font-style: italic;
+}
+tei-affiliation {
+  text-decoration-color: "red"
 }
