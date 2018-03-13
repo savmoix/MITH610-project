@@ -19,9 +19,6 @@ tei-publicationStmt {
 }
 tei-encodingDesc {
   display: table-footer-group; font-family: "Times New Roman", Times, serif;
-  border: 1px solid;
-  padding: 10px;
-  box-shadow: 5px 10px #888888;
 }
 tei-body {
   font-family: Arial, Helvetica, serif;
