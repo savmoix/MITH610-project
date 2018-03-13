@@ -2,18 +2,6 @@
 #description {
   margin: 0 0 1em 0;
 }
-hi {
-  font-style: italic;
-}
-tei-titleStmt {
-  font-family: "Times New Roman", Times, serif;
-}
-tei-titleStmt > tei-author {
-  display: none;
-}
-tei-publicationStmt {
-  display: none; font-family: "Times New Roman", Times, serif;
-}
 tei-body {
   font-family: Arial, Helvetica, serif;
 }
