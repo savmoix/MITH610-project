@@ -1,8 +1,3 @@
-<html>
-<head>
-<style>
-body {
-  background-color: #ffffff;
-  span {
-    background-color: #f18973;
-  }
+tei-supplied:before{
+  content "[]"
+}
