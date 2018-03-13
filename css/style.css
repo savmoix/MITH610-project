@@ -15,6 +15,5 @@ tei-interp[ana="#ASLUR"] {
   text-decoration: underline;
 }
 tei-interp [ana="#CSLUR"] {
-  font-style: bold;
-  text-decoration: underline;
+  text-decoration: overline;
 }
