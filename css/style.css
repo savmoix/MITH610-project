@@ -1,11 +1,4 @@
-/* Add your own CSS rules here */
-#description {
-  margin: 0 0 1em 0;
-}
-
-tei-teiHeader {
-  display: none;
-}
-tei-supplied {
-  font-style: italic;
+/* All elements with the attribute "#AFAM" are given green text */
+[#AFAM]{
+  color: green;
 }
