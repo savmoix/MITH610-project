@@ -258,9 +258,9 @@ should take a good look at <interp ana="#AFAM">yourselves</interp><lb break="yes
 and realize that <affiliation><interp ana="#CAUC">good hard work</interp></affiliation> and a<lb break="yes"/>
 <affiliation><interp ana="#CAUC">good education</interp></affiliation> is all <interp ana="#AFAM">you</interp> need to get<lb break="yes"/>
 ahead.</p>
-<p><persName ref="#IAR"><interp ana="#CAUC">I. A. Racist</interp></persName></p>
-<p><placeName><num>724</num> <interp ana="#CAUC">Reactionary</interp> Drive</placeName></p>
-<p><settlement><interp ana="#CAUC">Bigot</interp></settlement>, <region>Maryland</region></p>
+<p><persName ref="#IAR"><interp ana="#CAUC">I. A. Racist</interp></persName><lb break="yes"/>
+<placeName><num>724</num> <interp ana="#CAUC">Reactionary</interp> Drive</placeName><lb break="yes"/>
+<settlement><interp ana="#CAUC">Bigot</interp></settlement>, <region>Maryland</region></p>
 <p>This is a <affiliation><interp ana="#CAUC">letter</interp></affiliation> which is full of the<lb break="yes"/>
 <affiliation><interp ana="#CAUC">racism</interp></affiliation> that confronts <interp ana="#AFAM">black students</interp><lb break="yes"/>
 <corr>everyday</corr>.</p>
