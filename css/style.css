@@ -1,2 +1,8 @@
-
-<span style="background-color: #FFFF00">black</span>
+<html>
+<head>
+<style>
+body {
+  background-color: #ffffff;
+  span {
+    background-color: #f18973;
+  }
