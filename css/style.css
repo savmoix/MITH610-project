@@ -1,4 +1,3 @@
-/* All elements with the attribute "#AFAM" are given green text */
-[#AFAM]{
-  color: green;
+html{
+  font: "color:red"
 }
