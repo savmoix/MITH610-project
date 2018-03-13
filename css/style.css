@@ -1,3 +1,17 @@
-tei-supplied:before{
-  content "[]"
+<html>
+<head>
+<style>
+body {
+    background-color: #FFFFFF;
 }
+
+span {
+    background-color: #f18973;
+}
+</style>
+</head>
+<body>
+<p><span>black</span></p>
+
+</body>
+</html>
