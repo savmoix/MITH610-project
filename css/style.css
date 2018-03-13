@@ -9,5 +9,11 @@ tei-interp[ana="#AFAM"] {
   font-weight: bold;
 }
 tei-interp[ana="#CAUC"] {
-  
+  font-style:italic;
+}
+tei-interp[ana="#ASLUR"] {
+  text-decoration: underline;
+}
+tei-interp [ana="#CSLUR"] {
+  text-decoration-color: "red"
 }
